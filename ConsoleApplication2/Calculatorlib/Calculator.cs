@@ -8,6 +8,12 @@ namespace Calculatorlib
 {
     public class Calculator
     {
+        /// <summary>
+        /// Calculator class
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns></returns>
         public  int sum(int a, int b)
         {
             return a + b;
