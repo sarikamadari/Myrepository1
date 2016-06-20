@@ -16,6 +16,8 @@ namespace ConsoleApplication2
             Console.WriteLine(result);
             var result1 = cal.mul(2, 4);
             Console.WriteLine(result1);
+            var result1 = cal.subtract(2, 4);
+            Console.WriteLine(result1);
             Console.ReadLine();
         }
     }
